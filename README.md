@@ -7,9 +7,11 @@
 4. Print any two values (can be based on sensor) in the format “x, y”
 
 
---   14,15
-=-   5,16
---   17,18
+14,15
+
+5,16
+
+17,18
 
 4. Run the processing code to see the object change across the screen
 5. Set up two sensors to independently control the x and y position of the circle on screen
