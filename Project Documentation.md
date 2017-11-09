@@ -1,8 +1,8 @@
-## Arcade Assignment
+# Arcade Assignment
 
 Use the arduino and your computer to create a significant improvement upon the arcade games given to you.
 
-# Suggested avenues for improvement
+## Suggested avenues for improvement
 
 You are welcome to suggest anything, however here are some ideas to guide your thinking.
 
@@ -21,7 +21,7 @@ You are welcome to suggest anything, however here are some ideas to guide your t
 6. Software improvements - Manage the player difficulty of the arduino
 6. Software improvements - Edit the processing games in any way to improve playability or aesthetics (use documentation on processing.org)
 
-# Initial Proposal
+## Initial Proposal
 
 With your group first determine what aspects you are most interested in. What would you feel the most interested in learning? What would you be most interested in presenting in your portfolio? What fields of engineering do you want to look into?
 
@@ -32,7 +32,7 @@ Write a short proposal which includes a few things:
 3. Why this interests you
 4. A list of small steps that can work towards a larger improvement. These will be aspects you want to prototype and build upon. They should be manageable but work towards some goal.
 
-# Deliverables
+## Deliverables
 
 A zip file which contains the following:
 
