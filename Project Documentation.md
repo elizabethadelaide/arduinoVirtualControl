@@ -36,21 +36,21 @@ Write a short proposal which includes a few things:
 
 A zip file which contains the following:
 
-Arduino program files of each prototype, each should be well-commented, and should have a large initial comment which contains:
+1. Arduino program files of each prototype, each should be well-commented, and should have a large initial comment which contains:
 
-Authors, Date,
-Purpose of the program,
-Circuit wiring,
-How it interfaces with a computer,
+    Authors, Date,
+    Purpose of the program,
+    Circuit wiring,
+    How it interfaces with a computer,
 
-*Any issues, concerns or questions that occurred during creating the program.*
+    *Any issues, concerns or questions that occurred during creating the program.*
 
-*What helped you received in creating this project and from whom*
+    *What helped you received in creating this project and from whom*
 
-Processing files (if there were any changes to the processing files), which contain a similar comment.
+2. Processing files (if there were any changes to the processing files), which contain a similar comment.
 
-Any image/video files of the project working, or any documentation of errors and issues.
+3. Any image/video files of the project working, or any documentation of errors and issues.
 
-Remember that the errors and issues are far more important than the sucesses.
+*Remember that the errors and issues are far more important than the sucesses.*
 
-Documentation should be profressional enough to use on college and job applications. (Correct spelling, proper grammar, etc.)
+*Documentation should be profressional enough to use on college and job applications. (Correct spelling, proper grammar, etc.)*
