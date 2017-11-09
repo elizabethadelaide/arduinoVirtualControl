@@ -53,4 +53,4 @@ A zip file which contains the following:
 
 *Remember that the errors and issues are far more important than the sucesses.*
 
-*Documentation should be profressional enough to use on college and job applications. (Correct spelling, proper grammar, etc.)*
+*Documentation should be professional enough to use on college and job applications. (Correct spelling, proper grammar, etc.)*
