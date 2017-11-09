@@ -36,7 +36,7 @@ Write a short proposal which includes a few things:
 
 A zip file which contains the following:
 
-1. Arduino program files of each prototype, each should be well-commented, and should have a large initial comment which contains:
+1. Arduino program files of each prototype, each should be well-commented, and should have a large initial comment which contains the following information:
 
     Authors, Date,
     Purpose of the program,
@@ -45,7 +45,7 @@ A zip file which contains the following:
 
     *Any issues, concerns or questions that occurred during creating the program.*
 
-    *What helped you received in creating this project and from whom*
+    *What help you received in creating this project and from whom*
 
 2. Processing files (if there were any changes to the processing files), which contain a similar comment.
 
