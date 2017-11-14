@@ -56,12 +56,11 @@ The documentation can be found here: http://playground.arduino.cc/Code/NewPing
 Programs read from serial
 
 1. Set the serial rate in arduino to 9600. (<b>Serial.begin(9600);</b> in setup)
-2. Write serial information in the loop using <b>Serial.write</b>
+2. Write serial information in the loop using <b>Serial.print</b>
 3. Make sure entries are separated by commas, and end with new lines <b>'\n'</b>
 4. To request information print the string "Get Information" to the serial port
 5. Have your arduino read information using the "Serial.parseInt()" commands (https://www.arduino.cc/en/Reference/parseInt)
-6. In processing it will list out the available serial ports in the console. If your serial port is not listed, try recononnecting the arduino. IF it is, set the function in processing "new Serial(this, Serial.list()[0], 9600);" to the correct port number. It will often be 0 the first time.
-7. Processing and the serial plotter/monitor cannot run at the same time.
+6. Processing and the serial plotter/monitor cannot run at the same time.
 
 Basic control - Move an circle on the screen
 
